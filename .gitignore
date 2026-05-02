@@ -1,0 +1,37 @@
+# ========== GITIGNORE - École Bilingue du Congo ==========
+# Ce fichier indique à Git quels fichiers ignorer
+
+# Fichiers du système
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (si utilisation de Node.js)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Fichiers de build
+dist/
+build/
+.env.local
+
+# Fichiers sensibles (à ne pas partager)
+.env
+secrets.json
+
+# Cache
+.cache/
+.eslintcache
+
+# Dossiers temporaires
+temp/
+tmp/
