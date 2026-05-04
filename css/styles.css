@@ -371,7 +371,6 @@ a:hover {
 .logo-icon-wrapper {
     width: 48px;
     height: 48px;
-    background: var(--gradient-primary);
     border-radius: var(--radius-lg);
     display: flex;
     align-items: center;
