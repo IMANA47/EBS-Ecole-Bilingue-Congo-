@@ -24,8 +24,8 @@ document.addEventListener('DOMContentLoaded', function() {
     initPerformanceOptimizations();
     initAdvancedAnimations();
     initDarkMode();
-    console.log('%c🎓 École Bilingue du Congo', 'font-size: 20px; color: #1a3a52; font-weight: bold;');
-    console.log('%c✨ Site créé par les élèves - Programme Entrepreneurial', 'color: #ff6b35; font-size: 12px;');
+    console.log('%c École Bilingue du Congo', 'font-size: 20px; color: #1a3a52; font-weight: bold;');
+    console.log('%c Site créé par les élèves - Programme Entrepreneurial', 'color: #ff6b35; font-size: 12px;');
 });
 
 // ========== 1. MENU HAMBURGER ==========
